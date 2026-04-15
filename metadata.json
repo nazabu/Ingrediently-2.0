@@ -1,0 +1,5 @@
+{
+  "name": "Ingrediently 2.0",
+  "description": "A minimalist recipe generator powered by Gemini. Enter ingredients, choose a cuisine, and get a beautiful, step-by-step recipe card.",
+  "requestFramePermissions": []
+}
